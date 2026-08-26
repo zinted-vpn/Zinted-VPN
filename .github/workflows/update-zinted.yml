@@ -1,7 +1,6 @@
 name: Update Zinted VPN
 
 on:
-  woon:
   push:
     branches:
       - main
