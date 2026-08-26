@@ -1,6 +1,10 @@
 name: Update Zinted VPN
 
 on:
+  woon:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
