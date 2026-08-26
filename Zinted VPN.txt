@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-#updated: 2026-08-26T01:13:37.598911+00:00
+#updated: 2026-08-26T01:16:44.354576+00:00
 #sources: 6
 #configs: 41121
 
