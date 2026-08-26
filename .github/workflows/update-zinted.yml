@@ -25,25 +25,12 @@ jobs:
           python-version: "3.12"
 
       - name: Update Zinted VPN
-        - name: Save changes
-  run: |
-    git config user.name "Zinted VPN"
-    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-    git add "Zinted VPN.txt"
-
-    if git diff --cached --quiet; then
-      echo "No changes"
-      exit 0
-    fi
-
-    git commit -m "Auto update VPN subscription"
-    git push
+        run: python scripts/update.py
 
       - name: Save changes
         run: |
-          git config user.name "Zinted VPN Bot"
+          git config user.name "Zinted VPN"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "Zinted VPN.txt"
-          git diff --cached --quiet || git commit -m "Update Zinted VPN"
+          git diff --cached --quiet || git commit -m "Auto update VPN subscription"
           git push
