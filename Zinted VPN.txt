@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-02T10:26:05.450445+00:00
+# Updated: 2026-09-02T11:24:51.359361+00:00
 # Sources: 3/5
 
 vless://2c082e78-bd9d-4960-b9f3-cde0040cb4f3@173.230.155.55:50900?flow=xtls-rprx-vision&encryption=none&security=reality&sni=www.amd.com&pbk=vdE4t2bYhYun6fZ9Weu_f6MXtsmq8iJ7XQBUj62scR0&sid=12fa394e28d52011&type=tcp&headerType=none
