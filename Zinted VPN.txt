@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-05T07:21:55.018342+00:00
+# Updated: 2026-09-05T08:23:44.881473+00:00
 # Sources: 3/5
 
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2052?encryption=none&security=none&type=ws&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&path=/?ed=2560&fm={"tcp": [{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["1"], "delays": ["4"], "maxSplit": "355"}}]}
