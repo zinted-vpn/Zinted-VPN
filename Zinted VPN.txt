@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-06T06:28:34.716593+00:00
+# Updated: 2026-09-06T07:23:13.336217+00:00
 # Sources: 3/5
 
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8880?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/&security=none&type=ws
