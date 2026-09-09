@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-09T12:31:47.595321+00:00
+# Updated: 2026-09-09T13:27:37.076757+00:00
 # Sources: 3/5
 
 vless://bca46025-bf43-40c0-895b-054a6fbcfd32@172.235.38.85:42942?security=reality&encryption=none&pbk=JmkfJoDWpAqt6gj4cbc4_cwItsdryMlV7joAGfNTKQU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=a56d7d8da977f860
