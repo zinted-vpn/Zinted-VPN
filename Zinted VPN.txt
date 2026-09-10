@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-10T10:25:59.135318+00:00
+# Updated: 2026-09-10T11:24:57.256842+00:00
 # Sources: 3/5
 
 vless://975fc322-6e38-434b-a53c-d39fed49b9a9@47.251.108.158:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SmgYcFIvvFXW3xh4gvGhIJuQsaZvWkAylcjB6TEddEs&security=reality&sid=896f52ba2cfca903&sni=www.cloudflare.com&type=tcp
