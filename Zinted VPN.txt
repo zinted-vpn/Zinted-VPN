@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-12T07:22:20.642352+00:00
+# Updated: 2026-09-12T08:24:30.528590+00:00
 # Sources: 3/5
 
 vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev:80?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/GOJsyjiYMePYoW0AzoBfGheCLYy9?ed=2560
