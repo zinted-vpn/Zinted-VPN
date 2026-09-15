@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-15T01:27:59.716020+00:00
+# Updated: 2026-09-15T02:27:32.466125+00:00
 # Sources: 3/5
 
 vless://e3a14180-7231-4b6a-9828-cf761cd2bf6f@192.3.247.109:43581?encryption=none&flow=xtls-rprx-vision&fp=&pbk=wh0IE218NveFttUOm9huqT-RQXq9fM_uCsMmKqgRyWY&security=reality&sid=0123456789abcdef&sni=apple.com&type=tcp
