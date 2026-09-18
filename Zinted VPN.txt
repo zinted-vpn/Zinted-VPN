@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-18T02:26:24.290332+00:00
+# Updated: 2026-09-18T03:24:26.172946+00:00
 # Sources: 3/5
 
 vless://4b2fbd30-1a64-4b27-aea9-713d62c9e69b@31.58.50.200:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp
