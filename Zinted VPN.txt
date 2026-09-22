@@ -1,5 +1,5 @@
 #profile-title: Zinted VPN
-# Updated: 2026-09-22T16:25:57.908253+00:00
+# Updated: 2026-09-22T17:23:42.185728+00:00
 # Sources: 3/5
 
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.96.15:8081?path=/vless-test&security=none&encryption=none&type=ws
